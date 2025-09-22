@@ -39,4 +39,3 @@ This web app where companies (tenants) can register, manage their users, and mon
 
 
 
-If you want, I included fully copy-pasteable files for migrations, models, controllers and sample React components. Ask and I'll paste them into the repo structure or create files for you.
